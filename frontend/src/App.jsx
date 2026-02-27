@@ -4,7 +4,7 @@ import MainHeader from './components/Header/MainHeader.jsx';
 import Product from "./components/ProductInfo/Product.jsx"
 import Card from './components/Card/Card.jsx';
 import Faq from './components/Faq/Faq.jsx';
-import ProductCards from "./components/ProductCards/ProductCards.jsx";
+import CardProducts from "./components/CardProducts/CardProducts.jsx"
 import ReviewSection from './components/ReviewSection/ReviewSection.jsx';
 import ReviewCard from './components/ReviewCard/ReviewCard.jsx';
 import Footer from "./components/Footer/Footer.jsx";
@@ -18,7 +18,7 @@ function App() {
       <Product />
       <Card />
       <Faq />
-      <ProductCards />
+      <CardProducts/>
       <ReviewSection />
       <SortFilter/>
       <ReviewCard />

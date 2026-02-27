@@ -1,6 +1,6 @@
 import React from 'react'
-import ProductCardImg from "../ProductCards/assets/ProductCardImg.jpeg";
-import "../ProductCards/productCards.css"
+import ProductCardImg from "../CardProducts/assets/ProductCardImg.jpeg";
+import "../CardProducts/CardProducts.css"
 
 function ProductCards() {
   return (
