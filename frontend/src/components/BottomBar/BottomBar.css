@@ -1,0 +1,38 @@
+.bottom-bar {
+  background-color: #000;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.bottom-bar-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.copyright {
+  color: #e5e5e5;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.copyright span{
+    font-size: 23px;
+}
+.links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.links a {
+  color: #e5e5e5;
+  text-decoration: underline;
+  font-size: 28px;
+  transition: opacity 0.2s ease;
+}
+
+.links a:hover {
+  opacity: 0.7;
+}
+

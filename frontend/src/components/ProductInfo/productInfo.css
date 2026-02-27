@@ -1,0 +1,198 @@
+.info-section {
+  background: #fff;
+}
+
+.headBar {
+  font-size: 15px;
+  color: rgb(74, 70, 70);
+}
+
+.category {
+  color: #0096db;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.title {
+  font-size: 20px;
+  margin: 8px 0;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin: 4px 0;
+}
+
+.star {
+  height: 30px;
+  width: 30px;
+}
+
+.starFill {
+  height: 30px;
+  width: 30px;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 13px;
+  background: #fff;
+}
+
+.feature p {
+  font-size: 13 px;
+}
+
+.feature span {
+  font-size: 17 px;
+}
+
+.feature {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+}
+
+.feature img {
+  width: 24px;
+}
+
+.feature span img {
+  height: 19px;
+  width: 19px;
+}
+
+.flavours {
+  display: flex;
+  gap: 12px;
+  background: #ffff;
+  margin: 40px 20px;
+}
+
+.tag {
+  background-color: red;
+  border: none;
+  border-radius: 10px;
+  width: 90px;
+}
+
+.flavour-card {
+  border: 1px solid #ddd;
+  padding: 8px;
+  border-radius: 10px;
+  width: 100%;
+  text-align: center;
+  background: white;
+}
+
+.flavour-card.active {
+  border: 2px solid red;
+}
+
+.flavour-card img {
+  width: 60px;
+  height: 60px;
+}
+
+.flavourNames {
+  font-size: 13px;
+}
+
+.cart-section {
+  background: #fff;
+}
+
+.add-btn {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background: #3d2f82;
+  padding: 14px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  width: auto;
+}
+
+.button-btn {
+  background: #3d2f82;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+
+.price {
+  text-align: right;
+}
+
+.old {
+  text-decoration: line-through;
+  color: gray;
+  margin-right: 8px;
+}
+
+.new {
+  color: white;
+}
+
+.tax {
+  float: right;
+}
+
+.also-see {
+  display: flex;
+  gap: 10px;
+  background: #fff;
+  padding: 12px;
+  align-items: center;
+}
+
+.also-see img {
+  width: 60px;
+  border-radius: 50%;
+}
+
+.also-see-content {
+  font-size: 13px;
+}
+
+.as-seen-section {
+  background: #efede8;
+  padding: 50px 16px;
+  margin-bottom: 70px;
+
+}
+
+.as-seen-container {
+  max-width: 420px;
+  margin: auto;
+  height: 20px
+}
+
+.as-seen-title {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #222;
+  margin-bottom: 40px;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.logos img {
+  max-width: 45%;
+  height: auto;
+}
+
+.sideArrow {
+  position: relative;
+  top: 3px;
+}

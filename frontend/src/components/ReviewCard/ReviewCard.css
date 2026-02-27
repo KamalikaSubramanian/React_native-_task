@@ -1,0 +1,62 @@
+.review-card {
+  padding: 20px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.review-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  background: #10b981;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.name {
+  font-weight: 600;
+}
+
+.verified {
+  font-size: 12px;
+  color: #2563eb;
+}
+
+.days {
+  margin-left: auto;
+  font-size: 12px;
+  color: #777;
+}
+
+.stars {
+  margin-top: 10px;
+  color: #fbbf24;
+}
+
+.comment {
+  margin-top: 10px;
+  color: #444;
+}
+
+.helpful {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+.thumbIcon{
+  height: 20px;
+  position: relative;
+  top: 4px;
+}
+
+.reviewCardStarFill{
+  height: 25px;
+}

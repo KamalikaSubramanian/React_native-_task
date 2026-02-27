@@ -1,0 +1,161 @@
+.footer {
+  background-color: #f4efe9;
+  padding: 40px 60px;
+  font-family: Arial, sans-serif;
+  color: #111;
+}
+
+.footer-container {
+  background-color: #e9e9e9;
+  padding: 40px 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #111;
+  max-width: 400px;
+}
+
+.footerIcon {
+  height: 15px;
+  position: relative;
+  top: 3px;
+}
+
+.star {
+  font-size: 14px;
+}
+
+.footer-section {
+  margin-bottom: 40px;
+}
+
+.footer-section h3 {
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+.footer-grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-column {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.footer-item {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.footer-item:hover {
+  text-decoration: underline;
+}
+
+.reviews {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.badge {
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-weight: 600;
+  position: relative;
+  top: 10px;
+}
+.reviewed {
+  text-align: center;
+  margin-bottom: 40px;
+  color: #555;
+}
+
+
+.links-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 60px;
+}
+
+.column h4 {
+  font-size: 14px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.column p {
+  margin: 8px 0;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.badge {
+  background: black;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  margin-left: 6px;
+}
+
+
+.story-section {
+  text-align: center;
+  max-width: 700px;
+  margin: auto;
+}
+
+.owl-icons {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.story-text {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+
+.newsletter {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.newsletter input {
+  width: 400px;
+  padding: 15px;
+  font-size: 16px;
+  border: 2px solid black;
+  border-right: none;
+  outline: none;
+}
+
+.newsletter button {
+  width: 80px;
+  background: black;
+  color: white;
+  border: 2px solid black;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.social-icons span {
+  font-size: 24px;
+  margin: 0 15px;
+  cursor: pointer;
+}
+
+.mail{
+  position: relative;
+  bottom: 8px;
+  font-weight: 800;
+  font-size: 30px;
+}
