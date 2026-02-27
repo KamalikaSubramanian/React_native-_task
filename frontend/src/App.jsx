@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import MainHeader from './components/Header/MainHeader.jsx';
 import Product from "./components/ProductInfo/Product.jsx"
-import Card from './components/Card/card.jsx';
+import Card from './components/Card/Card.jsx';
 import Faq from './components/Faq/Faq.jsx';
 import Productcards from './components/ProductCards/Productcards.jsx';
 import ReviewSection from './components/ReviewSection/ReviewSection.jsx';
