@@ -146,6 +146,12 @@
   font-size: 20px;
   cursor: pointer;
 }
+.social-icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
 
 .social-icons span {
   font-size: 24px;

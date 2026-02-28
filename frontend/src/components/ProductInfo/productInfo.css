@@ -161,23 +161,22 @@
 
 .as-seen-section {
   background: #efede8;
-  padding: 50px 16px;
+  padding: 10px 16px;
   margin-bottom: 70px;
-
 }
 
 .as-seen-container {
   max-width: 420px;
-  margin: auto;
-  height: 20px
+  height: 90px
 }
 
 .as-seen-title {
+  margin-top: 15px;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 1px;
   color: #222;
-  margin-bottom: 40px;
+  margin-bottom: 15px;
 }
 
 .logos {
@@ -188,8 +187,8 @@
 }
 
 .logos img {
-  max-width: 45%;
-  height: auto;
+  width:170px;
+  height:auto;
 }
 
 .sideArrow {

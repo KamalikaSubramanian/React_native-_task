@@ -7,7 +7,7 @@ const reviews = [
     key: 1,
     symbol: "YG",
     name: "Yash g",
-    daysAgo: "15 days ago",
+    daysAgo: "15 ",
     rating: "5",
     title: "It has a hint of cinnamon taste",
     comment: "It has a hint of cinnamojn taste to it which I personally don't like aprt from it tastes ans feels aewesome."
@@ -16,7 +16,7 @@ const reviews = [
     key: 2,
     symbol: "YG",
     name: "Yash g",
-    daysAgo: "15 days ago",
+    daysAgo: "15",
     rating: "5",
     title: "It has a hint of cinnamon taste",
     comment: "It has a hint of cinnamojn taste to it which I personally don't like aprt from it tastes ans feels aewesome."
@@ -25,7 +25,7 @@ const reviews = [
     key: 3,
     symbol: "YG",
     name: "Yash g",
-    daysAgo: "15 days ago",
+    daysAgo: "15",
     rating: "4",
     title: "It has a hint of cinnamon taste",
     comment: "It has a hint of cinnamojn taste to it which I personally don't like aprt from it tastes ans feels aewesome."
@@ -34,7 +34,7 @@ const reviews = [
     key: 4,
     symbol: "YG",
     name: "Yash g",
-    daysAgo: "15 days ago",
+    daysAgo: "15 ",
     rating: "3",
     title: "It has a hint of cinnamon taste",
     comment: "It has a hint of cinnamojn taste to it which I personally don't like aprt from it tastes ans feels aewesome."
